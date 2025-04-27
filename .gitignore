@@ -1,0 +1,11 @@
+.venv
+data/bvh2folder.zip
+data/wav2folder.zip
+data/bvh2folder
+data/wav2folder
+data/wav2clips
+data/bvh2clips
+data/bvh2clips_test
+vq-vae/preds/output.jsonl
+vq-vae/preds/test_idx.csv
+*.DS_Store
